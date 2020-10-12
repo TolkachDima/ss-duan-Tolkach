@@ -26,7 +26,7 @@
 // let amount = prompt('Amont yr mani');
 // let chocoCost = 15;
 // alert(`U can buy ${Math.floor(amount/chocoCost)} chocs & U have delivery ${amount%chocoCost}`);
-//--------------------------------------------------------
+//-------------------------------------------------------
 
 let n = prompt("Enter") + '';
 let rez = n[n.length -1];
